@@ -131,7 +131,7 @@ Example:
 
 -> # RANGER <-
 
--> better cat (pager) <-
+-> filemanager <-
 
 - Colors
 - Miller column
@@ -314,6 +314,7 @@ Example:
 `hyperfine --warmup 5 'fd . -e json -uu /home/worldpotato/.config' 'find ~/.config -iname \"*.jpg\"'`
 
 -> *DEMO* <-
+
 -------------------------------------------------
 
 -> # httpie <-
@@ -329,6 +330,7 @@ Example:
 `http -v pie.dev/get`
 
 -> *DEMO* <-
+
 -------------------------------------------------
 
 -> # sl <-
